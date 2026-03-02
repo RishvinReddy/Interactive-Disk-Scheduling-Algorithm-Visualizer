@@ -1,5 +1,0 @@
-customtkinter
-matplotlib
-networkx
-reportlab
-numpy
