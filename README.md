@@ -1,12 +1,14 @@
-<div align="center">
-```
-████████╗ █████╗ ██╗     ███████╗███╗   ██╗███████╗██╗   ██╗███╗   ██╗ ██████╗
-╚══██╔══╝██╔══██╗██║     ██╔════╝████╗  ██║██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝
-   ██║   ███████║██║     █████╗  ██╔██╗ ██║███████╗ ╚████╔╝ ██╔██╗ ██║██║
-   ██║   ██╔══██║██║     ██╔══╝  ██║╚██╗██║╚════██║  ╚██╔╝  ██║╚██╗██║██║
-   ██║   ██║  ██║███████╗███████╗██║ ╚████║███████║   ██║   ██║ ╚████║╚██████╗
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=TALENSYNC&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<h3 align="center">⚡ Syncing Talent with Technology ⚡</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-SMART%20SYSTEMS-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STACK-IoT%20%7C%20AI%20%7C%20WEB-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-success?style=for-the-badge"/>
+</p>
 
 **A comprehensive, interactive Operating Systems simulation & visualization suite**
 
